@@ -17,4 +17,7 @@ The file to be processed is located in the resource folder.
 # Installing Java JDK SE
 To Run FindPalindromeWordsInText, you will need Java SE 8.
 
+# Runnig FindPalindromeWordsInText
+To Run FindPalindromeWordsInText, you must run the main method. The Main method reads the InputText.txt file in the /resource path and processes it. You can change the InputText.txt to any text you want.
+
 
